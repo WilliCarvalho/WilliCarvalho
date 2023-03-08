@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WilliCarvalho
 - 👀 I’m interested in Game development (using game engines like Unreal, Unity, etc.)
 - 🌱 I’m currently working professionally with Unity and unreal, using blueprints, C++ and C#
-- 💞️ I’m looking to collaborate on develop great games!
+- 💞️ I’m looking to collaborate on develop multiplayer gameplay mechanics and stuff!
 - 📫 Reach me by my e-mail! willian_matheus14@hotmail.com
